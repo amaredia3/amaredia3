@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**amaredia3/amaredia3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👨‍💻 About Me :
 I am a Computer Science and business student at Texas A&M Univeristy .
 I am currently working on full stack web development as in intern at Charles Schwab. 
@@ -27,6 +24,4 @@ You can contact me at amaredia3@gmail.com.
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
 
--->
