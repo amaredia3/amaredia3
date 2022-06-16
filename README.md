@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. I am Asim Maredia.
 
 # 👨‍💻 About Me :
 I am a Computer Science and business student at Texas A&M Univeristy .
