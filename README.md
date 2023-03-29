@@ -5,7 +5,7 @@
 I am a Computer Science and Business student at Texas A&M Univeristy graduating in May, 2023.
 I am currently educating myself in Computer + Network Security, Algorithm Design, Software Engineering, and HCI. 
 Previously I worked on full stack web development at Amazon and Charles Schwab, and before that I worked on mobile app development with a student led startup. 
-Recently, I have started exploring Ruby on Rails and Docker for a web development project.
+Recently, I have been working on a PDF accessibility project.
 Feel free to contact me to discuss tech or debate sports! 
 You can contact me at amaredia3@gmail.com.
 
