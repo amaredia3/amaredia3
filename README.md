@@ -1,10 +1,5 @@
 # Hi there 👋 I am Asim Maredia!
 
-
-# 👨‍💻 About Me :
-I am a Software Engineer with a bachelors degree in computer science from Texas A&M University.
-
-
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amaredia3)
 
