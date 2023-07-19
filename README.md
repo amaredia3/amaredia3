@@ -1,5 +1,9 @@
 # Hi there 👋 I am Asim Maredia!
 
+I am a recent Computer Science Graduate starting a career in Software Engineering. I enjoy taking ownership of the products I work on, from designing the user experience to delivering optimal perfromance. 
+
+Want to connect? Email me at [amaredia3@gmail.com](mailto:amaredia3@gmail.com?subject=[GitHub])
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amaredia3)
 
