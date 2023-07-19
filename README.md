@@ -15,19 +15,19 @@ Want to connect? Email me at [amaredia3@gmail.com](mailto:amaredia3@gmail.com?su
 <br>
 
 <a href="https://github.com/CSCE482-Spring2023-Taele/Squirtle">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CSCE482-Spring2023-Taele&repo=Squirtle&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CSCE482-Spring2023-Taele&repo=Squirtle&title_color=ffffff&text_color=c9cacc&bg_color=1A2B34" />
 </a>
 
 <br>
 
 <a href="https://github.com/fortress32501/AHS_environment">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fortress32501&repo=AHS_environment&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fortress32501&repo=AHS_environment&title_color=ffffff&text_color=c9cacc&bg_color=1A2B34" />
 </a>
 
 <br>
 
 <a href="https://github.com/amaredia3/HappyCampers">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=amaredia3&repo=HappyCampers&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=amaredia3&repo=HappyCampers&title_color=ffffff&text_color=c9cacc&bg_color=1A2B34" />
 </a>
 
 <br>
