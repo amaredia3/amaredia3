@@ -1,6 +1,6 @@
 # Hi there 👋 I am Asim Maredia!
 
-I am a recent Computer Science Graduate and a Software Engineer looking to build software solutions to modern problems.
+Bachelors of Science in Computer Science | Software Developer at AWS Industrial IoT
 
 Want to connect? Email me at [amaredia3@gmail.com](mailto:amaredia3@gmail.com?subject=[GitHub])
 
