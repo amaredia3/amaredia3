@@ -1,6 +1,6 @@
 # Hi there 👋 I am Asim Maredia!
 
-Bachelors of Science in Computer Science | Software Developer at AWS Industrial IoT
+Software Developer at AWS Industrial IoT
 
 Want to connect? Email me at [amaredia3@gmail.com](mailto:amaredia3@gmail.com?subject=[GitHub])
 
